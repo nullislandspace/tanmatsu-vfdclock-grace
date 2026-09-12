@@ -1,6 +1,6 @@
 {
-  "name": "Grace Template",
-  "description": "Template app using Graceloader",
+  "name": "VFD Clock",
+  "description": "Displays a clock on an I2C VFD display on the CATT port",
   "categories": ["tools"],
   "version": "0.1.0",
   "icon": {

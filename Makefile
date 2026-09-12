@@ -4,7 +4,7 @@ BADGELINKPORT ?= $(PORT)
 SHELL := /usr/bin/env bash
 
 # App installation settings
-APP_SLUG_NAME ?= tld.username.gracetemplate
+APP_SLUG_NAME ?= at.cavac.vfdclock
 APP_INSTALL_BASE_PATH ?= /int/apps/
 APP_INSTALL_PATH = $(APP_INSTALL_BASE_PATH)$(APP_SLUG_NAME)
 
